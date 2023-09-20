@@ -1,7 +1,9 @@
 # Proyecto-Titanic
 Proyecto Titanic, donde se pone en práctica programación en python, analisisi de datos y visualización de datos con Power Bi 
 ## Observaciones
-![Observaciones](ConclusionesSupervivenciaTitanic.png)
+![conclusiones](TitaniObservaciones.png)
+
+
 
 ## Conclusiones 
-![conclusiones](TitaniObservaciones.png)
+![Observaciones](ConclusionesSupervivenciaTitanic.png)
